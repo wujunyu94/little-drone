@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,">
+        <Project ProjectGUID="{B7153B51-3D00-462b-8B6C-F2473CE8F2DD}" Name="Test" ACTCFG="Target 1">
+            <TARGOPT Name="Target 1" OPTDF="0" />
+        </Project>
+    </Projects>
+</TKStudioOptions>
