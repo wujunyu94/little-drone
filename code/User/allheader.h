@@ -13,7 +13,6 @@
 #include "MPU9250.h"
 #include "ppm.h" 
 #include "led.h"
-#include "SPI.h"
 //#include "spi_nrf24l01.h"
 #include "control.h"
 #include "i2c.h"
